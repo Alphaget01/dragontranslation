@@ -1,0 +1,5 @@
+discord.py
+google-cloud-firestore
+google-cloud-vision
+google-api-python-client
+deepl

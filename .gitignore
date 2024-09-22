@@ -1,0 +1,4 @@
+.venv/
+creds_base64.txt
+.env
+credentials.json
